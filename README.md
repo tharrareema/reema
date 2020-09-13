@@ -6,4 +6,10 @@
 | 2013-15 | Intermediate |     82%    |
 | 2015-19 |    B.tech    |    62.7%   |
 
-`Strengths`
+`SKILLS`
+<li> Python </li>
+<li> Machine Learning </li>
+
+`SOFTWARE`
+
+<li> Anaconda </li>
