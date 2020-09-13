@@ -5,4 +5,5 @@
 |  2013   |     10th     |     83%    |
 | 2013-15 | Intermediate |     82%    |
 | 2015-19 |    B.tech    |    62.7%   |
+
 `Strengths`
