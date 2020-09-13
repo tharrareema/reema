@@ -7,8 +7,10 @@
 | 2015-19 |    B.tech    |    62.7%   |
 
 `**SKILLS**`
+
 <li> Python </li>
 <li> Machine Learning </li>
+
 
 `**SOFTWARE**`
 
