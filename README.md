@@ -1,5 +1,5 @@
 # Tharra Reema
-[![LinkedIn](Linkedin-01.png)](https://www.linkedin.com/in/tharra-reema-a9b391186)
+[![LinkedIn]()](https://www.linkedin.com/in/tharra-reema-a9b391186)
 
 
 |  Year   |   Education  | Percentage |
