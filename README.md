@@ -7,7 +7,7 @@ I did a course on machine learning and I'm looking forward to improve my skills 
 
 
 
-<summary>🤝 <b>To connect with me</b></summary>
+🤝 <b>To connect with me</b>
 
 <p align = "center">
  
