@@ -8,12 +8,10 @@
 
 `**SKILLS**`
 
-<li> Python </li>
 <li> Machine Learning </li>
+<li> Python </li>
 
-
-
-
+<\>
 `**SOFTWARE**`
 
 <li> Anaconda </li>
