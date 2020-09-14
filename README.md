@@ -6,7 +6,7 @@ I did a course on machine learning and I'm looking forward to improve my skills 
 - 👍 Looking for opportunities to join as an intern/full time in deep learning field
 
 
-<details open>
+
 <summary>🤝 <b>To connect with me</b></summary>
 
 <p align = "center">
@@ -17,5 +17,4 @@ I did a course on machine learning and I'm looking forward to improve my skills 
 
 </p>
 
-</details>
 
