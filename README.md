@@ -1,14 +1,10 @@
 ## Hi 👋 I am Reema! 
 
-I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Python, C++, Plotly-Dash, PyTorch, and  AWS. I am actively looking for opportunities in Data Science. Recently, I have just started with tech-blogging!
+I did a course on machine learning and I'm looking forward to improve my skills to built my career. Even though I am a fresher, I assure you that I will give my best and work to my full potential so that I can contribute as much as I can towards the growth and welfare of this great brand. I am actively looking for opportunities in Data Science. 
 
-- 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
-- 🤝 Open for collaborations in deep learning, analytics and data science.
-- 😊 Willing to contribute in opensource development projects.
-- 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
-- 👨 Know more about me at [Sourcerer](https://sourcerer.io/pr2tik1) 
-- 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
-- 👋 My personal [blog site](https://pr2tik1.github.io/blog/)
+- 💻 Currently not working, learning and growing my skillset in competitive coding, statistics and algorithms.
+- 👍 Looking for opportunities to join as an intern/full time in deep learning field
+
 
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
