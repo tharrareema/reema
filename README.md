@@ -1,5 +1,7 @@
 # Tharra Reema
-[LinkedIn](https://www.linkedin.com/in/tharra-reema-a9b391186)
+[![LinkedIn](Linkedin-01.png)](https://www.linkedin.com/in/tharra-reema-a9b391186)
+
+
 |  Year   |   Education  | Percentage |
 |---------|--------------|------------|
 |  2013   |     10th     |     83%    |
