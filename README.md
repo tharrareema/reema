@@ -9,12 +9,10 @@ I did a course on machine learning and I'm looking forward to improve my skills 
 
 🤝 <b>To connect with me</b>
 
-<p align = "center">
+
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tharra-reema-a9b391186/)
 
 
-
-</p>
 
 
