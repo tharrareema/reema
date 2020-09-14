@@ -11,7 +11,8 @@
 <li> Machine Learning </li>
 <li> Python </li>
 
-<br>
+<br/>
+
 `**SOFTWARE**`
 
 <li> Anaconda </li>
