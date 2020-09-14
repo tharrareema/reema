@@ -12,7 +12,7 @@ I did a course on machine learning and I'm looking forward to improve my skills 
 
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tharra-reema-a9b391186/)
-[<img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mail.google.com/mail/u/tharrareema@gmail.com/#inbox?compose=new)
+[<img src="https://img.shields.io/badge/gmail-%230077B7.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mail.google.com/mail/u/tharrareema@gmail.com/#inbox?compose=new)
 
 
 
